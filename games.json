@@ -2237,19 +2237,7 @@
 			"name": "EA SPORTS FC 26",
 			"size": "75 GB",
 			"video": "https://youtu.be/GBq8fcpBOTU?si=FncfB4kmsCo5ubBi"
-		},
-		{
-	"cat": ["action", "adventure"],
-	"desc": "Game description in English.",
-	"desc_ar": "وصف اللعبة بالعربية.",
-	"extra_link": "كلمة السر",
-	"image": "res://images/game161.webp",
-	"link": "https://رابط-التحميل",
-	"name": "Game Name",
-	"name_ar": "اسم اللعبة",
-	"size": "25 GB",
-	"video": "https://youtu.be/XXXXXXXXXXX"
-},
+		}
 	],
 	"updates": [
 		{
