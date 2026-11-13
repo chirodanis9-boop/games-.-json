@@ -1,4 +1,10 @@
 {
+"app": {
+  "version": "1.0.0",
+  "url": "https://رابط-التحديث",
+  "notes": "ما الجديد (اختياري)",
+  "force": false
+},
 	"games": [
 		{
 			"cat": [
